@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "math-messenger-bot-executor",
+    "name": "math-messenger-bot",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "br7jc07l98",
+    "module": "bot"
+  }
+}
